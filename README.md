@@ -2,12 +2,9 @@ Hi 👋, I'm Rajat Sethi</h1>
 <h3 align="center">I'm an optimistic person but I'm also realistic about how satisfactory or unsatisfactory the current situation is :)</h3>
 
 
-
 ![MasterHead](https://www12.lunapic.com/do-not-link-here-use-hosting-instead/161152586944721198?3478744299)
 <h1 align="center">
-  
-  
-  
+ 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-sethi28&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-sethi28" /> </p>
 
@@ -16,19 +13,12 @@ Hi 👋, I'm Rajat Sethi</h1>
 <p align="left"> <a href="https://twitter.com/rajat_sethi28" target="blank"><img src="https://img.shields.io/twitter/follow/rajat_sethi28?logo=twitter&style=for-the-badge" alt="rajat_sethi28" /></a> </p>
 
 
-
-
-
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47uvukz6yqt940xyt5usxhfzvhp8ovtpx4m982pisl&rid=200w.webp">
 
 
 - 🔭 I’m currently working on **My Skill Development**
 
 - 🌱 I’m currently learning **Everthing xD**
-
-
-<img align="right" alt="Coding" width="400" src="https://im6.ezgif.com/tmp/ezgif-6-ba91c93cd7db.gif">
-
-
 
 - 🤝 I’m looking for help in **C++**
 
