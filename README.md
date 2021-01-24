@@ -12,9 +12,7 @@ Hi 👋, I'm Rajat Sethi</h1>
 
 <p align="left"> <a href="https://twitter.com/rajat_sethi28" target="blank"><img src="https://img.shields.io/twitter/follow/rajat_sethi28?logo=twitter&style=for-the-badge" alt="rajat_sethi28" /></a> </p>
 
-
-<img align="right" alt="Coding" width="400" src="https://gph.is/g/4gYnBv9">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 - 🔭 I’m currently working on **My Skill Development**
 
