@@ -3,7 +3,7 @@ Hi 👋, I'm Rajat Sethi</h1>
 
 
 
-![MasterHead](https://i.pinimg.com/originals/a1/ea/f6/a1eaf6f9f543b4beef6220e96185cab3.jpg)
+![MasterHead](https://i.pinimg.com/originals/2c/9b/29/2c9b29c3f114e5fa62613ab40c8bd790.png)
 <h1 align="center">
   
   
@@ -16,15 +16,12 @@ Hi 👋, I'm Rajat Sethi</h1>
 <p align="left"> <a href="https://twitter.com/rajat_sethi28" target="blank"><img src="https://img.shields.io/twitter/follow/rajat_sethi28?logo=twitter&style=for-the-badge" alt="rajat_sethi28" /></a> </p>
 
 
-- 🔭 I’m currently working on **My Skill Development**
-
-
 
 <img align="right" alt="Coding" width="400" src="https://im6.ezgif.com/tmp/ezgif-6-ba91c93cd7db.gif">
 
 
 
-
+- 🔭 I’m currently working on **My Skill Development**
 
 - 🌱 I’m currently learning **Everthing xD**
 
