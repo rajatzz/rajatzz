@@ -1,13 +1,30 @@
-<h1 align="center">Hi 👋, I'm Rajat Sethi</h1>
+Hi 👋, I'm Rajat Sethi</h1>
 <h3 align="center">I'm an optimistic person but I'm also realistic about how satisfactory or unsatisfactory the current situation is :)</h3>
 
+
+
+![MasterHead](https://i.pinimg.com/originals/a1/ea/f6/a1eaf6f9f543b4beef6220e96185cab3.jpg)
+<h1 align="center">
+  
+  
+  
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-sethi28&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-sethi28" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat-sethi28" alt="rajat-sethi28" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajat_sethi28" target="blank"><img src="https://img.shields.io/twitter/follow/rajat_sethi28?logo=twitter&style=for-the-badge" alt="rajat_sethi28" /></a> </p>
 
-- 🔭 I’m currently working on **my skill development**
+
+- 🔭 I’m currently working on **My Skill Development**
+
+
+
+<img align="right" alt="Coding" width="400" src="https://im6.ezgif.com/tmp/ezgif-6-ba91c93cd7db.gif">
+
+
+
+
 
 - 🌱 I’m currently learning **Everthing xD**
 
@@ -16,6 +33,7 @@
 - 📫 How to reach me **rajatsethi.sethi7@gmail.com**
 
 - ⚡ Fun fact **When I type, I sometimes like to use three dots…instead of a comma. It just feels more me.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
