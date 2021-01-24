@@ -17,13 +17,18 @@ Hi 👋, I'm Rajat Sethi</h1>
 
 
 
-<img align="right" alt="Coding" width="400" src="https://im6.ezgif.com/tmp/ezgif-6-ba91c93cd7db.gif">
+
 
 
 
 - 🔭 I’m currently working on **My Skill Development**
 
 - 🌱 I’m currently learning **Everthing xD**
+
+
+<img align="right" alt="Coding" width="400" src="https://im6.ezgif.com/tmp/ezgif-6-ba91c93cd7db.gif">
+
+
 
 - 🤝 I’m looking for help in **C++**
 
