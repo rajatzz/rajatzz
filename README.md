@@ -3,7 +3,7 @@ Hi 👋, I'm Rajat Sethi</h1>
 
 
 
-![MasterHead](https://i.pinimg.com/originals/2c/9b/29/2c9b29c3f114e5fa62613ab40c8bd790.png)
+![MasterHead](https://www12.lunapic.com/do-not-link-here-use-hosting-instead/161152586944721198?3478744299)
 <h1 align="center">
   
   
