@@ -18,8 +18,6 @@ Hi 👋, I'm Rajat Sethi</h1>
 
 - 🌱 I’m currently learning **Everthing xD**
 
-- 🤝 I’m looking for help in **C++**
-
 - 📫 How to reach me **rajatsethi.sethi7@gmail.com**
 
 - ⚡ Fun fact **When I type, I sometimes like to use three dots…instead of a comma. It just feels more me.**
