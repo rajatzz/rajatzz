@@ -57,9 +57,9 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
   </a>
 </p> -->
 
-<img  src="https://github-readme-stats.vercel.app/api?username=rajat-sethi28&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=rajatzz&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-sethi28&theme=radical" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajatzz&theme=radical" width="45%" >
 
 <br>
 
@@ -69,7 +69,7 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/rajat-sethi28/rajat-sethi28/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/rajatzz/rajatzz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
