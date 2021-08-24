@@ -38,6 +38,7 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60"
 
 </div>
 
@@ -89,6 +90,3 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 
 </div>
 
-
-
-<img src="/media/footer.png" alt="">
