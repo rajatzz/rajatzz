@@ -23,11 +23,9 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 <br />
 <br />
 
-
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
 <div align="center">
-  
+
+<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>  
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
@@ -45,10 +43,6 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 
 <br >
 
-
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
 <!-- <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
@@ -56,6 +50,11 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p> -->
+
+
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=rajatzz&show_icons=true&theme=radical" width="45%" align="right" >
 
@@ -75,6 +74,7 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 ### Show some ❤️ by starring ⭐ some of the repositories!
  
  <br/>
+
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rajat-sethi28/)
