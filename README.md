@@ -52,12 +52,12 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 <!-- <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-sethi28&theme=dark&hide"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-sethi28&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p> -->
 
-<img  src="https://github-readme-stats.vercel.app/api?username=rajatzz&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=rajatzz&show_icons=true&theme=radical" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajatzz&theme=radical" width="45%" >
 
