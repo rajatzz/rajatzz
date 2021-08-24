@@ -62,7 +62,6 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 
 <br>
 
-<div align="center">
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
@@ -70,6 +69,8 @@ A 2nd year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh
 <p align="center">
   <img src="https://github.com/rajatzz/rajatzz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+<div align="center">
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
  
